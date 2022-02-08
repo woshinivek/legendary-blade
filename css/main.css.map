@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAC;EACH,gBAAgB,EAAE,sBAAsB;CACzC;;AAED,AAAA,EAAE,CAAC;EACD,UAAU,EAAE,IAAI;CACjB",
+    "mappings": "AAEA,AAAA,IAAI,CAAC;EACH,gBAAgB,ECHN,IAAI;CDIf;;AAED,AAAA,EAAE,CAAC;EACD,UAAU,EAAE,IAAI;CACjB",
     "sources": [
-        "../sass/main.scss"
+        "../sass/main.scss",
+        "../sass/utils/_variables.scss"
     ],
     "names": [],
     "file": "main.css"
